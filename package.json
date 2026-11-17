@@ -1,0 +1,1 @@
+{"description":"EMBERLINE — a round-based tactical FPS in the Cinder Quay container yard: 5v5 vs bots, spark plant/defuse, economy and buy menu. Built on three.js 0.187.0, static files, no build step.","license":"MIT","name":"emberline","scripts":{"build":"node main.ts","start":"node serve.ts"},"type":"module","version":"1.0.0"}
